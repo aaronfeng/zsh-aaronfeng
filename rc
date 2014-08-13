@@ -1,0 +1,3 @@
+for conf in "$bundle_path"/*.zsh; do
+  source "$conf"
+done
